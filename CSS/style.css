@@ -1,0 +1,45 @@
+h2{
+	color: black;
+	background-color:grey;
+	border:1 px solid black;
+}
+
+p{
+	color: black;
+}
+
+body{
+	background-color:#fffff9;
+}
+
+#header{
+	width:400px;
+	margin:auto;
+	font-family: arial;
+}
+
+ul, ol {
+	list-style: none;
+}
+
+.navegacion li a {
+	background-color: #D3D3D3;
+	color: black;
+	text-decoration: none;
+	margin:0%;
+	position: 0%;
+	width: 15px;
+}
+
+.Educacion{
+	background: grey;
+}
+
+.Experiencia{
+	background: grey;
+}
+
+footer{
+	background: #FFEBCD;
+
+}
